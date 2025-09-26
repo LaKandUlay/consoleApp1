@@ -13,7 +13,9 @@ class Program
 
         string x = "Loste Jacob";
         int y = 123;
+        int j = 111;
+        string c = "Eldo";
 
-        Console.WriteLine("{0} and {1}", y, x);
+        Console.WriteLine("{0} and {1} and {2}", y, x, j);
     }
 }
